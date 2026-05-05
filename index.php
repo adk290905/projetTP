@@ -24,6 +24,6 @@
 <?php
 	$content = ob_get_clean();
 	require "main.html";
-	//a
+	
 ?>
 
